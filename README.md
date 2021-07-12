@@ -1,2 +1,2 @@
-# Portfoilio
+# Portfolio
 Mini Portfolio
